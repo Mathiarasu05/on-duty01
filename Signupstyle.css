@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+}
+.text{
+    margin-left: 17px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.inputss h1{
+    margin-top: 1rem;
+}
+.inputss p{
+    margin-bottom: -1rem;
+}
+.inputss {
+    background-color: white;
+    width: 35em;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+    position: relative;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    border: 2px solid white;
+}
+
+.inputss p{
+    font-size: 28px;
+}
+.inputboxs {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EFF2F7;
+}
+
+.enter{
+    margin-top: 50px;
+    padding: 10px;
+    width: 20rem;
+    border: none;
+    border-bottom: 2px solid black;
+    margin-left: 7rem;
+}
+.enters{
+    margin-top: 40px;
+    padding: 10px;
+    width: 20rem;
+    border: none;
+    border-bottom: 2px solid black;
+    margin-left: 7rem;
+}
+
+.subms{
+    align-items: center;
+    margin-left: 7rem;
+    margin-top: 50px;
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+    width: 60%;
+    border: none;
+    font-size: 25px;
+    background-color: #1D5092;
+    color: white;
+    transition: 0.6s;
+}
+.subms:hover{
+     opacity: 0.8;
+}
+.logokpr1s{
+    width: 80px;
+    margin-top: 1rem;
+}
+.next{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    transition: 0.6s;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.next{
+    color: #1D5092;
+    transition: 0.5s;
+}
+.next:hover{
+    color: rgb(8, 8, 100);
+    font-weight: bold;
+}
